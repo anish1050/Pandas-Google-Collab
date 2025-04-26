@@ -1,0 +1,24 @@
+
+# Mini Project Report
+
+## Title:
+Analysis and Classification of Forum Posts (Based on BOLT English Discussion Forums - LDC2022T13)
+
+## Objective:
+Perform Data Preparation, EDA, and ML Modeling on forum posts.
+
+## Dataset Information:
+Attributes: post_id, text, timestamp, is_question.
+
+## Notebook 1:
+- Data Cleaning: Lowercasing, removing punctuation, fixing timestamps.
+
+## Notebook 2:
+- EDA: Average post length, Distribution of Questions vs Statements.
+
+## Notebook 3:
+- ML Problem: Predict if a post is a question using Multinomial Naive Bayes.
+- Accuracy: (You will fill this after running Notebook 3)
+
+## Conclusion:
+Successfully completed full data science lifecycle on the dataset.
